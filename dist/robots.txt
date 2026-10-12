@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brandgrowth.online/sitemap.xml
